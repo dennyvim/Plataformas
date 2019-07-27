@@ -1,0 +1,7 @@
+c:\users\denny villalobos\source\repos\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+c:\users\denny villalobos\source\repos\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+c:\users\denny villalobos\source\repos\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+c:\users\denny villalobos\source\repos\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csprojAssemblyReference.cache
+c:\users\denny villalobos\source\repos\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+c:\users\denny villalobos\source\repos\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+c:\users\denny villalobos\source\repos\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb
