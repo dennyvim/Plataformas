@@ -1,0 +1,7 @@
+C:\Users\Denny Villalobos\source\repos\CaracteresPlataformas\CaracteresPlataformas\bin\Debug\CaracteresPlataformas.exe.config
+C:\Users\Denny Villalobos\source\repos\CaracteresPlataformas\CaracteresPlataformas\bin\Debug\CaracteresPlataformas.exe
+C:\Users\Denny Villalobos\source\repos\CaracteresPlataformas\CaracteresPlataformas\bin\Debug\CaracteresPlataformas.pdb
+C:\Users\Denny Villalobos\source\repos\CaracteresPlataformas\CaracteresPlataformas\obj\Debug\CaracteresPlataformas.csprojAssemblyReference.cache
+C:\Users\Denny Villalobos\source\repos\CaracteresPlataformas\CaracteresPlataformas\obj\Debug\CaracteresPlataformas.csproj.CoreCompileInputs.cache
+C:\Users\Denny Villalobos\source\repos\CaracteresPlataformas\CaracteresPlataformas\obj\Debug\CaracteresPlataformas.exe
+C:\Users\Denny Villalobos\source\repos\CaracteresPlataformas\CaracteresPlataformas\obj\Debug\CaracteresPlataformas.pdb
