@@ -1,0 +1,7 @@
+C:\Users\Denny Villalobos\source\repos\Cadenas\Cadenas\bin\Debug\Cadenas.exe.config
+C:\Users\Denny Villalobos\source\repos\Cadenas\Cadenas\bin\Debug\Cadenas.exe
+C:\Users\Denny Villalobos\source\repos\Cadenas\Cadenas\bin\Debug\Cadenas.pdb
+C:\Users\Denny Villalobos\source\repos\Cadenas\Cadenas\obj\Debug\Cadenas.csprojAssemblyReference.cache
+C:\Users\Denny Villalobos\source\repos\Cadenas\Cadenas\obj\Debug\Cadenas.csproj.CoreCompileInputs.cache
+C:\Users\Denny Villalobos\source\repos\Cadenas\Cadenas\obj\Debug\Cadenas.exe
+C:\Users\Denny Villalobos\source\repos\Cadenas\Cadenas\obj\Debug\Cadenas.pdb
